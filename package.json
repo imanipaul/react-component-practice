@@ -2,7 +2,7 @@
   "name": "component-practice",
   "version": "1.0.0",
   "description": "publish react component to NPM",
-  "main": "build/index.js",
+  "main": "./index.js",
   "peerDependencies": {
     "react": "^16.4.0"
   },
